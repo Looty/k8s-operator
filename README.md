@@ -92,3 +92,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+## Errors
+`FATA[0002] failed to create API: unable to run post-scaffold tasks of "base.go.kubebuilder.io/v3": exit status 2`
+
+export CGO_ENABLED=0
